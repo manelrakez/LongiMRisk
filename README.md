@@ -1,2 +1,2 @@
 # LongiMRisk
-Source codes for LongiMRisk model developed by Rakez et al. 2025
+The GitHub repository is currently under construction. Codes are soon to be provided.
